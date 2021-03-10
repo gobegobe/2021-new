@@ -1,5 +1,3 @@
-gobegobe的github！
-
-##还在学着使用呢
-
+gobegobe的github！  
+##还在学着使用呢  
 **wohoo！**
